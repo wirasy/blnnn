@@ -108,15 +108,15 @@ body {
   display: inline-block;
   height: 350px;
   max-width: 100%;
-  border-radius: 30%;
+  border-radius: 10%;
   /* height: auto; */
 }
 
 .six .hat {
-  left: 41.5%;
+  left: 51%;
   position: absolute;
   /* transform: scale(0.1); */
-  top: -35%;
+  top: -50%;
   width: 80px;
   margin-top: 30px;
   margin-left: 70px;
